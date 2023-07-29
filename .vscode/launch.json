@@ -1,0 +1,157 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch StandUpComedian",
+      "request": "launch",
+      "mainClass": "StandUpComedian",
+      "projectName": "Codeforces_2e79fdd2"
+    },
+    {
+      "type": "java",
+      "name": "Launch UPproblem2",
+      "request": "launch",
+      "mainClass": "UPproblem2",
+      "projectName": "Codeforces_2e79fdd2"
+    },
+    {
+      "type": "java",
+      "name": "Launch UPproblem1",
+      "request": "launch",
+      "mainClass": "UPproblem1",
+      "projectName": "Codeforces_2e79fdd2"
+    },
+    {
+      "type": "java",
+      "name": "Launch nonRepeatingChar",
+      "request": "launch",
+      "mainClass": "nonRepeatingChar",
+      "projectName": "Codeforces_2e79fdd2"
+    },
+    {
+      "type": "java",
+      "name": "Launch LongestCommonSequence",
+      "request": "launch",
+      "mainClass": "LongestCommonSequence",
+      "projectName": "Codeforces_2e79fdd2"
+    },
+    {
+      "type": "java",
+      "name": "Launch MaxPath",
+      "request": "launch",
+      "mainClass": "MaxPath",
+      "projectName": "Codeforces_2e79fdd2"
+    },
+    {
+      "type": "java",
+      "name": "Launch LongestPalindrome",
+      "request": "launch",
+      "mainClass": "LongestPalindrome",
+      "projectName": "Codeforces_2e79fdd2"
+    },
+    {
+      "type": "java",
+      "name": "Launch atm",
+      "request": "launch",
+      "mainClass": "atm",
+      "projectName": "Codeforces_2e79fdd2"
+    },
+    {
+      "type": "java",
+      "name": "Launch VigenèreCipher",
+      "request": "launch",
+      "mainClass": "VigenèreCipher",
+      "projectName": "Codeforces_2e79fdd2"
+    },
+    {
+      "type": "java",
+      "name": "Launch currencyConverter",
+      "request": "launch",
+      "mainClass": "currencyConverter",
+      "projectName": "Codeforces_2e79fdd2"
+    },
+    {
+      "type": "java",
+      "name": "Launch ceasarCypher",
+      "request": "launch",
+      "mainClass": "ceasarCypher",
+      "projectName": "Codeforces_2e79fdd2"
+    },
+    {
+      "type": "java",
+      "name": "Launch VampireNumbers",
+      "request": "launch",
+      "mainClass": "VampireNumbers",
+      "projectName": "Codeforces_2e79fdd2"
+    },
+    {
+      "type": "java",
+      "name": "Launch TGJOHN",
+      "request": "launch",
+      "mainClass": "TGJOHN",
+      "projectName": "Codeforces_2e79fdd2"
+    },
+    {
+      "type": "java",
+      "name": "Launch GCD",
+      "request": "launch",
+      "mainClass": "GCD",
+      "projectName": "Codeforces_2e79fdd2"
+    },
+    {
+      "type": "java",
+      "name": "Launch angelbabyangel",
+      "request": "launch",
+      "mainClass": "angelbabyangel",
+      "projectName": "Codeforces_2e79fdd2"
+    },
+    {
+      "type": "java",
+      "name": "Launch StringPermutation",
+      "request": "launch",
+      "mainClass": "StringPermutation",
+      "projectName": "Codeforces_2e79fdd2"
+    },
+    {
+      "type": "java",
+      "name": "Launch queue",
+      "request": "launch",
+      "mainClass": "queue",
+      "projectName": "Codeforces_2e79fdd2"
+    },
+    {
+      "type": "java",
+      "name": "Launch LuckyFour",
+      "request": "launch",
+      "mainClass": "LuckyFour",
+      "projectName": "Codeforces_2e79fdd2"
+    },
+    {
+      "type": "java",
+      "name": "Launch sum",
+      "request": "launch",
+      "mainClass": "sum",
+      "projectName": "Codeforces_2e79fdd2"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/luis/Desktop/Programs/Java/Codeforces",
+      "program": "c:/Users/luis/Desktop/Programs/Java/Codeforces/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
