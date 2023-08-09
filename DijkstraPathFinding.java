@@ -8,5 +8,6 @@ public class DijkstraPathFinding {
         int u, d, l ,r;
         if (row - 1 >= 0 && lastPos != 'u' && arr[row - 1][column] != 'D') u = shortestPath(arr, row - 1, column, 'd', total);
         if (row + 1 < arr.length && lastPos != 'd' && arr[row + 1][column] != 'D') d = shortestPath(arr, row + 1, column, 'u', total);
+        
     }
 }

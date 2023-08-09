@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "VigenèreCipher",
+      "request": "launch",
+      "mainClass": "VigenèreCipher",
+      "projectName": "NCR-National-Java-Compe-Training_bfd69ae"
+    },
+    {
+      "type": "java",
       "name": "Launch StandUpComedian",
       "request": "launch",
       "mainClass": "StandUpComedian",
